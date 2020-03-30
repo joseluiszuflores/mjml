@@ -1,0 +1,122 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap" />
+  </mj-head>
+  <mj-body>
+    <!-- Company Header -->
+    <mj-section background-color="white">
+        <mj-column width="100%">
+            <mj-image src="../../assets/header-vitay-01.png" 
+            alt="" align="center" border="none"  
+            padding-left="0px" padding-right="0px" 
+            padding-bottom="10px" padding-top="10px"></mj-image>
+        </mj-column>
+    </mj-section>
+
+    <mj-section>
+         <mj-column width="20%">
+            <mj-image src="../../assets/agente.png" 
+            alt="" align="center" border="none"  width="80px"
+            padding-left="0px" padding-right="0px" 
+            padding-bottom="10px" padding-top="10px" height="80px"></mj-image>
+         </mj-column>
+         <mj-column width="80%">
+            <mj-text font-family="Montserrat, Arial" font-size="20px">
+                Bienvenido
+                <p style="font-size:28px; color:#6C63FF">Tobias Hernandez</p>
+            </mj-text>
+         </mj-column>
+    </mj-section>
+    <!-- Image Header -->
+    <mj-section >
+        <mj-column width="100%">
+            <mj-text color="#B3B3B3" font-family="Montserrat, Arial" font-size="20px" align="justify" font-weight="500" >
+            Tu preregistro en la plataforma Vitay esta hecho.
+            <br><br><br>
+            No olvides que tu contraseña es : <passwd style="color:#6C63FF">d2e420 </passwd>
+            . Visita 
+            nuestras oficinas en Calle Almendros 567 Int. 34 
+            Col. Cancun Quintana Roo. Presenta la siguiente 
+            documentación.
+            </mj-text>
+        </mj-column>        
+    </mj-section>
+
+    <mj-section >
+        <mj-column width="10%"  >
+            <mj-image src="../../assets/item-acreditacion.png" 
+            alt="" align="left" border="none"  width="100px"
+            padding-left="0px" padding-right="0px" 
+            padding-bottom="10px" padding-top="10px"></mj-image>
+        </mj-column>        
+        <mj-column width="90%" padding-top="20px" >
+            <mj-text padding-left="0px"  color="#B3B3B3"  font-family="Montserrat, Arial" font-weight="500" font-size="18px" >
+            Medico General
+            </mj-text>
+        </mj-column>        
+    </mj-section>
+    <!-- Introduction Text -->
+    <mj-section >
+        <mj-column width="100%">
+            <mj-text  color="#B3B3B3" font-family="Montserrat, Arial"  font-size="20px" align="justify" font-weight="500">
+               En vitay tratamos de que todos estén preparados 
+                para su primera visita a domicilio. Tendremos 
+                que configurar una sesión de incorporación, para 
+                que pueda familiarizarse con nuestros equipos y 
+                productos. En breve te llegara un correo 
+                agendando la cita.
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+         <mj-column width="100%">
+            <mj-image src="../../assets/font.png" 
+            alt="" align="center" border="none"  
+            padding-left="0px" padding-right="0px" 
+            padding-bottom="10px" padding-top="10px" height="200px"></mj-image>
+        </mj-column>
+    </mj-section>
+
+    <!-- Icons -->
+    <mj-section background-color="black">
+        <mj-column width="13%" padding-left="0px" padding-right="0px">
+            <mj-image src="../../assets/web.png" padding-right="0px" padding-left="0px" width="50px" height="35px"></mj-image>
+        </mj-column>
+        <mj-column width="21%" padding-left="0px" padding-right="0px">
+            <mj-text color="#FFF" padding-left="0px" padding-top="20px" font-family="Montserrat, Arial">
+                www.vitay.mx
+            </mj-text>
+        </mj-column>
+        <mj-column width="13%" padding-left="0px" padding-right="0px">
+            <mj-image src="../../assets/facebook.png"  padding-right="0px" padding-left="0px"  width="50px" height="35px" ></mj-image>
+        </mj-column>
+        <mj-column width="19%" padding-left="0px" padding-right="0px">
+            <mj-text color="#FFF"  padding-left="0px"   padding-top="20px"font-family="Montserrat, Arial">
+                vitayWelness
+            </mj-text>
+        </mj-column>
+        <mj-column width="13%" padding-left="0px" padding-right="0px">
+            <mj-image src="../../assets/instagram.png"  padding-right="0px" padding-left="0px" width="50px" height="35px"></mj-image>
+        </mj-column>
+        <mj-column width="19%" padding-left="0px" padding-right="0px">
+            <mj-text color="#FFF"  padding-left="0px"  padding-top="20px" font-family="Montserrat, Arial">
+                vitayWelness
+            </mj-text>
+        </mj-column>
+        <mj-column width="90%" >
+            <mj-text color="#FFF"  align="center"   font-family="Montserrat, Arial" >
+                Avenida paseo de la playa 520, Colonia Caiman, C.P. 
+                43000, Cuauhtemoc, Quintana Roo
+            </mj-text>
+        </mj-column>
+      
+
+    </mj-section>
+
+    <!-- Social icons -->
+    <mj-section background-color="#f0f0f0"></mj-section>
+
+  </mj-body>
+</mjml>
