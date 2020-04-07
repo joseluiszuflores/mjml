@@ -140,7 +140,7 @@
             </mj-text>
         </mj-column>
         <mj-column width="90%" >
-            <mj-text color="#FFF"  align="center"   font-family="Montserrat, Arial" >
+            <mj-text color="#FFF" font-size="16px"  align="center"   font-family="Montserrat, Arial" >
                 Avenida paseo de la playa 520, Colonia Caiman, C.P. 
                 43000, Cuauhtemoc, Quintana Roo
             </mj-text>
